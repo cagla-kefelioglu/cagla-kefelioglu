@@ -1,74 +1,60 @@
-<div align="center">
-  
-  <h1>Hi there, I'm Çağla KEFELİOĞLU 👋</h1>
-  <h3>Full-Stack Developer | Software Engineer | M.Sc. Student in Machine Learning</h3>
-
-  <br>
-  
-  <p>
-    💻 I'm passionate about building robust web and mobile applications from scratch.
-    <br>
-    🚀 Currently exploring the dynamic intersection of Big Data, AI, and software engineering.
-  </p>
-
-  <div>
-    <a href="https://linkedin.com/in/cagla-kefelioglu-1b4b8b222" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    &nbsp;
-    <a href="mailto:caglakefelioglu3@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-  </div>
-  
-</div>
-
-<hr>
-
-<h2 align="center">My Tech Stack</h2>
-<br>
-
-<h3 align="center">🚀 Backend & Data</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="./assets/ribbon-kitten.gif" width="920" alt="A ribbon-wearing kitten waves and blinks beside Hello, world!">
 </p>
 
-<h3 align="center">📱 Frontend & Mobile</h3>
+<h1 align="center">Hi, I’m Çağla Kefelioğlu 🎀</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <strong>Full-Stack Developer · Software Engineer</strong><br>
+  M.Sc. student in Machine Learning
 </p>
 
-<h3 align="center">🛠️ Tools & Platforms</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android"/>
+  I build web and mobile applications from scratch.<br>
+  I’m exploring where big data, AI, and software engineering meet.
 </p>
 
-<hr>
-
-<h2 align="center">My GitHub Stats</h2>
-<br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cagla-kefelioglu&show_icons=true&locale=en&theme=github_dark&hide_border=true&count_private=true" alt="cagla-kefelioglu GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cagla-kefelioglu&theme=github_dark&hide_border=true" alt="cagla-kefelioglu GitHub Streak" />
+  <a href="https://linkedin.com/in/cagla-kefelioglu-1b4b8b222"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-F6DFE9?style=for-the-badge&amp;logo=linkedin&amp;logoColor=813B60"></a>
+  <a href="mailto:caglakefelioglu3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-FBEBE3?style=for-the-badge&amp;logo=gmail&amp;logoColor=813B60"></a>
 </p>
+
+## Tech stack
+
+**Backend & data**
+
+<p>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-F6DFE9?style=flat-square&amp;logo=laravel&amp;logoColor=813B60">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-F6DFE9?style=flat-square&amp;logo=php&amp;logoColor=813B60">
+  <img alt="Python" src="https://img.shields.io/badge/Python-F6DFE9?style=flat-square&amp;logo=python&amp;logoColor=813B60">
+</p>
+
+**Frontend & mobile**
+
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-F6DFE9?style=flat-square&amp;logo=flutter&amp;logoColor=813B60">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-F6DFE9?style=flat-square&amp;logo=dart&amp;logoColor=813B60">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-F6DFE9?style=flat-square&amp;logo=html5&amp;logoColor=813B60">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-F6DFE9?style=flat-square&amp;logo=css&amp;logoColor=813B60">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-F6DFE9?style=flat-square&amp;logo=bootstrap&amp;logoColor=813B60">
+</p>
+
+**Tools & platforms**
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F6DFE9?style=flat-square&amp;logo=git&amp;logoColor=813B60">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F6DFE9?style=flat-square&amp;logo=figma&amp;logoColor=813B60">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F6DFE9?style=flat-square&amp;logo=firebase&amp;logoColor=813B60">
+  <img alt="Android" src="https://img.shields.io/badge/Android-F6DFE9?style=flat-square&amp;logo=android&amp;logoColor=813B60">
+</p>
+
+## GitHub activity
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagla-kefelioglu&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="cagla-kefelioglu Top Languages"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=cagla-kefelioglu&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=291B26&amp;title_color=F6ADC9&amp;text_color=F8EAF0&amp;icon_color=E78CB3" alt="Çağla’s GitHub statistics">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=cagla-kefelioglu&amp;hide_border=true&amp;background=291B26&amp;ring=E78CB3&amp;fire=F6ADC9&amp;currStreakLabel=F6ADC9&amp;currStreakNum=F8EAF0&amp;sideLabels=F8EAF0&amp;sideNums=F8EAF0&amp;dates=DDB5CA" alt="Çağla’s GitHub contribution streak">
+</p>
+
+<p align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagla-kefelioglu&amp;layout=compact&amp;hide_border=true&amp;bg_color=291B26&amp;title_color=F6ADC9&amp;text_color=F8EAF0" alt="Çağla’s most used languages on GitHub">
 </p>
