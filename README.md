@@ -17,24 +17,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/cagla-kefelioglu-1b4b8b222"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-link-linkedin-dark.png">
-    <img src="./assets/profile-link-linkedin-light.png" width="104" align="middle" alt="LinkedIn profile">
-  </picture></a>
-  &nbsp;♡&nbsp;
-  <a href="mailto:caglakefelioglu3@gmail.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-link-email-dark.png">
-    <img src="./assets/profile-link-email-light.png" width="81" align="middle" alt="Email Çağla">
-  </picture></a>
+  <a href="https://linkedin.com/in/cagla-kefelioglu-1b4b8b222"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-link-linkedin-dark.png"><img src="./assets/profile-link-linkedin-light.png" width="104" align="middle" alt="LinkedIn profile"></picture></a>&nbsp;♡&nbsp;<a href="mailto:caglakefelioglu3@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/profile-link-email-dark.png"><img src="./assets/profile-link-email-light.png" width="81" align="middle" alt="Email Çağla"></picture></a>
 </p>
 
 ## Tech stack
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/tech-cards-fine-dark-compact.png">
-  <source media="(max-width: 600px)" srcset="./assets/tech-cards-fine-light-compact.png">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-cards-fine-dark.png">
-  <img src="./assets/tech-cards-fine-light.png" width="920" alt="Tech stack. Backend and data: Laravel, PHP, Python. Frontend and mobile: Flutter, Dart, HTML5, CSS3, Bootstrap. Tools and platforms: Git, Figma, Firebase, Android.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-cards-inline-dark.png">
+  <img src="./assets/tech-cards-inline-light.png" width="920" alt="Tech stack. Backend and data: Laravel, PHP, Python. Frontend and mobile: Flutter, Dart, HTML5, CSS3, Bootstrap. Tools and platforms: Git, Figma, Firebase, Android.">
 </picture>
 
 ## GitHub activity
