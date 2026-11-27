@@ -2,12 +2,14 @@
   <img src="./assets/leopard-kitten-hearts.gif" width="187" alt="A kitten with a leopard-print bow waves and blinks among floating hearts">
 </p>
 
-<h1 align="center">Çağla Kefelioğlu</h1>
-
 <p align="center">
-  <strong>Full-Stack Developer · Software Engineer</strong><br>
-  M.Sc. student in Machine Learning
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-dark.png">
+    <img src="./assets/signature-light.png" width="540" alt="Çağla Kefelioğlu · Full-Stack Developer · Software Engineer">
+  </picture>
 </p>
+
+<p align="center"><em>M.Sc. student in Machine Learning</em></p>
 
 <p align="center">
   I build web and mobile applications from scratch.<br>
@@ -15,16 +17,30 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/cagla-kefelioglu-1b4b8b222">LinkedIn</a>
+  <a href="https://linkedin.com/in/cagla-kefelioglu-1b4b8b222"><strong>LinkedIn ↗</strong></a>
   &nbsp;♡&nbsp;
-  <a href="mailto:caglakefelioglu3@gmail.com">Email</a>
+  <a href="mailto:caglakefelioglu3@gmail.com"><strong>Email</strong></a>
 </p>
 
 ## Tech stack
 
-- **Backend & data** · Laravel, PHP, Python
-- **Frontend & mobile** · Flutter, Dart, HTML5, CSS3, Bootstrap
-- **Tools & platforms** · Git, Figma, Firebase, Android
+<p>
+  <img src="./assets/tech-backend-icon.png" width="22" align="middle" alt="">
+  &nbsp;<strong>Backend &amp; data</strong><br>
+  Laravel · PHP · Python
+</p>
+
+<p>
+  <img src="./assets/tech-frontend-icon.png" width="22" align="middle" alt="">
+  &nbsp;<strong>Frontend &amp; mobile</strong><br>
+  Flutter · Dart · HTML5 · CSS3 · Bootstrap
+</p>
+
+<p>
+  <img src="./assets/tech-tools-icon.png" width="22" align="middle" alt="">
+  &nbsp;<strong>Tools &amp; platforms</strong><br>
+  Git · Figma · Firebase · Android
+</p>
 
 ## GitHub activity
 
