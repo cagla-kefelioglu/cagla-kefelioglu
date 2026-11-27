@@ -2,11 +2,8 @@
   <img src="./assets/burgundy-leopard-kitten.gif" width="920" alt="A kitten with a leopard-print bow waves and blinks in a burgundy frame">
 </p>
 
-<h1 align="center">Hi, I’m Çağla Kefelioğlu 🎀</h1>
-
 <p align="center">
-  <strong>Full-Stack Developer · Software Engineer</strong><br>
-  M.Sc. student in Machine Learning
+  <img src="./assets/profile-intro.png" width="920" alt="Çağla Kefelioğlu · Full-Stack Developer · Software Engineer · M.Sc. student in Machine Learning">
 </p>
 
 <p align="center">
@@ -15,37 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/cagla-kefelioglu-1b4b8b222"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-72273C?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FBE4C9"></a>
-  <a href="mailto:caglakefelioglu3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-8B3B4C?style=for-the-badge&amp;logo=gmail&amp;logoColor=FBE4C9"></a>
+  <a href="https://linkedin.com/in/cagla-kefelioglu-1b4b8b222"><img width="122" src="./assets/contact-linkedin.png" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:caglakefelioglu3@gmail.com"><img width="122" src="./assets/contact-email.png" alt="Email"></a>
 </p>
 
-## Tech stack
-
-**Backend & data**
-
-<p>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-72273C?style=flat-square&amp;logo=laravel&amp;logoColor=FBE4C9">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-72273C?style=flat-square&amp;logo=php&amp;logoColor=FBE4C9">
-  <img alt="Python" src="https://img.shields.io/badge/Python-72273C?style=flat-square&amp;logo=python&amp;logoColor=FBE4C9">
-</p>
-
-**Frontend & mobile**
-
-<p>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-72273C?style=flat-square&amp;logo=flutter&amp;logoColor=FBE4C9">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-72273C?style=flat-square&amp;logo=dart&amp;logoColor=FBE4C9">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-72273C?style=flat-square&amp;logo=html5&amp;logoColor=FBE4C9">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-72273C?style=flat-square&amp;logo=css&amp;logoColor=FBE4C9">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-72273C?style=flat-square&amp;logo=bootstrap&amp;logoColor=FBE4C9">
-</p>
-
-**Tools & platforms**
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-72273C?style=flat-square&amp;logo=git&amp;logoColor=FBE4C9">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-72273C?style=flat-square&amp;logo=figma&amp;logoColor=FBE4C9">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-72273C?style=flat-square&amp;logo=firebase&amp;logoColor=FBE4C9">
-  <img alt="Android" src="https://img.shields.io/badge/Android-72273C?style=flat-square&amp;logo=android&amp;logoColor=FBE4C9">
+<p align="center">
+  <img src="./assets/tech-stack.png" width="920" alt="Tech stack. Backend and data: Laravel, PHP, Python. Frontend and mobile: Flutter, Dart, HTML5, CSS3, Bootstrap. Tools and platforms: Git, Figma, Firebase, Android.">
 </p>
 
 ## GitHub activity
