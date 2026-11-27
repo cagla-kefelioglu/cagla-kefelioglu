@@ -24,7 +24,7 @@
 ## GitHub activity
 
 <p align="center">
-  <img src="./assets/contribution-kitten.gif" width="920" alt="A kitten with a leopard-print bow follows public contribution squares and leaves paw prints">
+  <img src="./assets/contribution-kitten-wave.gif" width="920" alt="A kitten with a leopard-print bow walks across public contribution squares, pauses to wave, and leaves paw prints">
 </p>
 
 <p align="center">
