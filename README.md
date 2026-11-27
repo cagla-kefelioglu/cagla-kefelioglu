@@ -24,23 +24,12 @@
 
 ## Tech stack
 
-<p>
-  <img src="./assets/tech-backend-icon.png" width="22" align="middle" alt="">
-  &nbsp;<strong>Backend &amp; data</strong><br>
-  Laravel · PHP · Python
-</p>
-
-<p>
-  <img src="./assets/tech-frontend-icon.png" width="22" align="middle" alt="">
-  &nbsp;<strong>Frontend &amp; mobile</strong><br>
-  Flutter · Dart · HTML5 · CSS3 · Bootstrap
-</p>
-
-<p>
-  <img src="./assets/tech-tools-icon.png" width="22" align="middle" alt="">
-  &nbsp;<strong>Tools &amp; platforms</strong><br>
-  Git · Figma · Firebase · Android
-</p>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/tech-cards-dark-compact.png">
+  <source media="(max-width: 600px)" srcset="./assets/tech-cards-light-compact.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-cards-dark.png">
+  <img src="./assets/tech-cards-light.png" width="920" alt="Tech stack. Backend and data: Laravel, PHP, Python. Frontend and mobile: Flutter, Dart, HTML5, CSS3, Bootstrap. Tools and platforms: Git, Figma, Firebase, Android.">
+</picture>
 
 ## GitHub activity
 
