@@ -51,6 +51,10 @@
 ## GitHub activity
 
 <p align="center">
+  <img src="./assets/contribution-kitten.gif" width="920" alt="A kitten with a leopard-print bow follows public contribution squares and leaves paw prints">
+</p>
+
+<p align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=cagla-kefelioglu&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=311320&amp;title_color=F0C394&amp;text_color=F9E9D9&amp;icon_color=D9A477" alt="Çağla’s GitHub statistics">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=cagla-kefelioglu&amp;hide_border=true&amp;background=311320&amp;ring=D9A477&amp;fire=F0C394&amp;currStreakLabel=F0C394&amp;currStreakNum=F9E9D9&amp;sideLabels=F9E9D9&amp;sideNums=F9E9D9&amp;dates=E6BAA0" alt="Çağla’s GitHub contribution streak">
 </p>
