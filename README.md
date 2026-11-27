@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/leopard-kitten-sticker.gif" width="156" alt="A kitten with a leopard-print bow waves a paw and blinks">
+  <img src="./assets/leopard-kitten-hearts.gif" width="187" alt="A kitten with a leopard-print bow waves and blinks among floating hearts">
 </p>
 
 <h1 align="center">Çağla Kefelioğlu</h1>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/cagla-kefelioglu-1b4b8b222">LinkedIn</a>
-  &nbsp;·&nbsp;
+  &nbsp;♡&nbsp;
   <a href="mailto:caglakefelioglu3@gmail.com">Email</a>
 </p>
 
