@@ -28,7 +28,7 @@
 </picture>
 
 <p align="center">
-  <img src="./assets/sakura-swing.webp" width="560" alt="A child on a swing under a cherry tree as pink petals drift in the wind">
+  <img src="./assets/sakura-park.webp" width="650" alt="Cats run along a lamplit park path as a child swings under a cherry blossom tree">
 </p>
 
 ## GitHub activity
