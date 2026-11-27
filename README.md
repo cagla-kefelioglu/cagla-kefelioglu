@@ -25,10 +25,10 @@
 ## Tech stack
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/tech-cards-dark-compact.png">
-  <source media="(max-width: 600px)" srcset="./assets/tech-cards-light-compact.png">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-cards-dark.png">
-  <img src="./assets/tech-cards-light.png" width="920" alt="Tech stack. Backend and data: Laravel, PHP, Python. Frontend and mobile: Flutter, Dart, HTML5, CSS3, Bootstrap. Tools and platforms: Git, Figma, Firebase, Android.">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/tech-cards-slim-dark-compact.png">
+  <source media="(max-width: 600px)" srcset="./assets/tech-cards-slim-light-compact.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-cards-slim-dark.png">
+  <img src="./assets/tech-cards-slim-light.png" width="920" alt="Tech stack. Backend and data: Laravel, PHP, Python. Frontend and mobile: Flutter, Dart, HTML5, CSS3, Bootstrap. Tools and platforms: Git, Figma, Firebase, Android.">
 </picture>
 
 ## GitHub activity
