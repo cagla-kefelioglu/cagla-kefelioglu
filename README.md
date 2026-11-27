@@ -23,8 +23,8 @@
 ## Tech stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-cards-inline-dark.png">
-  <img src="./assets/tech-cards-inline-light.png" width="920" alt="Tech stack. Backend and data: Laravel, PHP, Python. Frontend and mobile: Flutter, Dart, HTML5, CSS3, Bootstrap. Tools and platforms: Git, Figma, Firebase, Android.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-cards-charms-dark.png">
+  <img src="./assets/tech-cards-charms-light.png" width="920" alt="Tech stack. Backend and data: Laravel, PHP, Python. Frontend and mobile: Flutter, Dart, HTML5, CSS3, Bootstrap. Tools and platforms: Git, Figma, Firebase, Android.">
 </picture>
 
 ## GitHub activity
