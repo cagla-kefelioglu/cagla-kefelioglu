@@ -28,7 +28,7 @@
 </picture>
 
 <p align="center">
-  <img src="./assets/sakura-breeze.webp" width="560" alt="A flowering cherry tree with pink petals drifting in the wind">
+  <img src="./assets/sakura-breeze.webp" width="560" alt="A child on a swing under a cherry tree as pink petals drift in the wind">
 </p>
 
 ## GitHub activity
