@@ -27,6 +27,10 @@
   <img src="./assets/tech-cards-charms-light.png" width="920" alt="Tech stack. Backend and data: Laravel, PHP, Python. Frontend and mobile: Flutter, Dart, HTML5, CSS3, Bootstrap. Tools and platforms: Git, Figma, Firebase, Android.">
 </picture>
 
+<p align="center">
+  <img src="./assets/sakura-breeze.webp" width="560" alt="A flowering cherry tree with pink petals drifting in the wind">
+</p>
+
 ## GitHub activity
 
 <p align="center">
